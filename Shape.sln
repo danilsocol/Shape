@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape", "Shape\Shape.csproj", "{374FC86E-952A-4B64-9436-8AEEDB86E8CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSquare", "CalculateSquare\CalculateSquare.csproj", "{AECD0254-7763-489A-AFFF-30D953498AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{98D42215-B61B-46AB-A7F1-E09C6816720C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{374FC86E-952A-4B64-9436-8AEEDB86E8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374FC86E-952A-4B64-9436-8AEEDB86E8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374FC86E-952A-4B64-9436-8AEEDB86E8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374FC86E-952A-4B64-9436-8AEEDB86E8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECD0254-7763-489A-AFFF-30D953498AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECD0254-7763-489A-AFFF-30D953498AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECD0254-7763-489A-AFFF-30D953498AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECD0254-7763-489A-AFFF-30D953498AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D42215-B61B-46AB-A7F1-E09C6816720C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D42215-B61B-46AB-A7F1-E09C6816720C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D42215-B61B-46AB-A7F1-E09C6816720C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D42215-B61B-46AB-A7F1-E09C6816720C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
